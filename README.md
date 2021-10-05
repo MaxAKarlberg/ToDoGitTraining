@@ -7,4 +7,11 @@ Simple console-based TODO application
 
 1. Clone repository
 
-2. Run application	
+2. Run application 
+
+
+## Contributors 
+
+Robert tublen
+Stina Nilsson
+Arne Anka
